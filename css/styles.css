@@ -1,6 +1,6 @@
 .bannerBgImage {
     height: 100vh;
-    background: url("https://plus.unsplash.com/premium_photo-1676998931123-75789162f170?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fGxhcHRvcHxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60");
+    background: url("../css/page.jpg");
     background-size: cover;
     position: relative;
 }
